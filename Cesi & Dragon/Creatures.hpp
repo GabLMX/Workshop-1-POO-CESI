@@ -1,4 +1,5 @@
-#include <iostream>
+#pragma once
+#include <string>
 
 //Les HPPs, les headers, doivent contenir la classe et les prototypes des méthodes.
 
